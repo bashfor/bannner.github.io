@@ -1,0 +1,55 @@
+.head {
+	background-image: url(logo.jpg);
+	height:50px;
+}
+
+.nav {
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	background-color:#cccccc;
+}
+
+.main {
+	background-color: #fff6bd;
+}
+
+.main > p {
+	text-indent:5em;
+	text-align:justify;
+}
+.nav_td {
+	height:50px;
+}
+
+.parks {
+	vertical-align: baseline;
+	background-color:#c3ecfa;
+}
+
+.parks_p {
+	font-weight:bold;
+}
+
+img {
+	float: top;
+    width:  300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.footer {
+	font-weight:bold;
+	text-align:center;
+	background-color:#4cbfe6;
+	height:30px;
+}
+
+td {
+	width:25%;
+}
+
+a:hover {
+	color:#3a4b54;
+	text-decoration:none;
+}
